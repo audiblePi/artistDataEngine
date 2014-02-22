@@ -1,0 +1,171 @@
+html 
+{
+    height: 100%;
+}
+
+body 
+{
+    /*height:100%;
+    */
+}
+
+#headContainer
+{
+    width:300px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:30px;
+}
+
+#left
+{
+    float:left;
+    max-width:100px;
+    height:100px;
+}
+
+#right
+{
+    float:right;
+    width:60%;
+    height:100px;
+}
+
+.title   
+{
+    font-size:20px;
+    text-align:center;
+    margin-top:140px;
+    margin-bottom:0px;
+}
+
+.shortText
+{
+    font-size:10px;
+    text-align:center;
+}
+
+.location
+{
+    font-size:10px;
+    text-align:left;
+    margin-top:10px;
+    margin-bottom:0px;
+}
+
+#pic
+{
+    text-align:left;
+    font-size:30px;
+    margin-top:00px;
+}
+
+#artistNameContainer
+{
+    text-align:left;
+    font-size:20px;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+#recommendationContainer
+{
+    text-align:left;
+    font-size:10px;
+    margin-top:0px;
+}
+
+/************************
+input
+************************/
+#artist
+{
+    font-size:30px;
+    text-align:center;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+#input    
+{
+    height:40px;
+    width:300px;
+    text-align:center;
+    font-size:10px;
+    margin-top:0px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+#button 
+{
+    text-align:center; 
+}
+
+.theButton
+{
+    height:40px;
+    width:305px;
+    font-size:10px;
+    text-align:center;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+/************************
+data
+************************/
+.leftDataBox
+{
+    text-align:center;
+    width:300px;
+    border-bottom:;
+    margin-bottom:0px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.rightDataBox
+{
+    text-align:center;
+    width:300px;
+    border-bottom:;
+    margin-bottom:0px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.leftDetailBox
+{
+    font-size:10px;
+    text-align:left;
+    float:left;
+    height:60px;
+    width:48%;
+    border:;
+    margin-top:20px;
+    margin-bottom:0px;
+}
+
+
+.rightDetailBox
+{
+    font-size:20px;
+    text-align:right;
+    float:right;
+    height:60px;
+    width:48%;
+    border:;
+    margin-top:20px;
+    margin-bottom:0px;
+}
+
+
+.resultBox
+{
+    height:15px;
+    font-size:15px;
+    border:solid;
+    margin-bottom:20px;
+}
